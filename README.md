@@ -101,7 +101,7 @@ Make sure to **Subscribe** and **Support** the creator if this tool helps you! ð
 
 ### Termux Full Install and Setup 
 ```
-apt update && apt upgrade && apt install tur-repo && apt install git tor privoxy netcat-openbsd curl && git clone https://github.com/Suraj2830009-arch/WHP-IP-HOPPER.git && cd WHP-IP-HOPPER && bash setup.sh && bash WHP-IP-HOPPER.sh
+apt update && apt upgrade && apt install tur-repo && apt install git tor privoxy netcat-openbsd curl && git clone https://github.com/suraj2830009-arch/WHP-IP-HOPPER.git && cd WHP-IP-HOPPER && bash setup.sh && bash WHP-IP-HOPPER.sh
 ```
 
 ### [TERMUX] Packege Install Comments
@@ -116,7 +116,7 @@ apt install tur-repo -y
 apt install git tor privoxy netcat-openbsd curl -y
 ```
 ```
-git clone https://github.com/Suraj2830009-arch/WHP-IP-HOPPER.git
+git clone https://github.com/suraj2830009-arch/WHP-IP-HOPPER.git
 ```
 ```
 cd WHP-IP-HOPPER
@@ -137,7 +137,7 @@ bash WHP-IP-HOPPER.sh
 </a>  
 <br>  
 
-<a href="https://github.com/Suraj2830009-archtab=repositories">
+<a href="https://github.com/suraj2830009-archtab=repositories">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>  
 <br>  
