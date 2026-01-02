@@ -73,7 +73,7 @@ Make sure to **Subscribe** and **Support** the creator if this tool helps you! ð
 > - You **must not** use this tool for illegal activity, unauthorized scanning, or attacking any network you do not own or have permission to test.
 > - This tool does **not guarantee full anonymity**, as DNS leaks, misconfigurations, or user mistakes can expose identity.
 > - Always test in **safe and legal environments** (e.g., virtual labs, local servers).
-> - The developer, **Alok Thakur**, is **not responsible** for any misuse, damage, or legal consequences arising from the use of this tool.
+> - The developer, **SURAJ X WHP**, is **not responsible** for any misuse, damage, or legal consequences arising from the use of this tool.
 >
 > You are solely responsible for your actions.
 
@@ -101,7 +101,7 @@ Make sure to **Subscribe** and **Support** the creator if this tool helps you! ð
 
 ### Termux Full Install and Setup 
 ```
-apt update && apt upgrade && apt install tur-repo && apt install git tor privoxy netcat-openbsd curl && git clone https://github.com/thakur2309/IP-HOPPRR-.git && cd IP-HOPPRR- && bash setup.sh && bash iphopper.sh
+apt update && apt upgrade && apt install tur-repo && apt install git tor privoxy netcat-openbsd curl && git clone https://github.com/Suraj2830009-arch/WHP-IP-HOPPER.git && cd WHP-IP-HOPPER && bash setup.sh && bash WHP-IP-HOPPER.sh
 ```
 
 ### [TERMUX] Packege Install Comments
@@ -116,17 +116,17 @@ apt install tur-repo -y
 apt install git tor privoxy netcat-openbsd curl -y
 ```
 ```
-git clone https://github.com/Suraj2830009-arch/WHP-IP-HOPPRR.git
+git clone https://github.com/Suraj2830009-arch/WHP-IP-HOPPER.git
 ```
 ```
-cd IP-HOPPRR-
+cd WHP-IP-HOPPER
 ```
 ```
 bash setup.sh
 ```
 ### Start tool command
 ```
-bash iphopper.sh
+bash WHP-IP-HOPPER.sh
 ```
 
 
