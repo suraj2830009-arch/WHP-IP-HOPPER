@@ -82,7 +82,7 @@ Make sure to **Subscribe** and **Support** the creator if this tool helps you! �
 ## 🛠️ Project Status
 
 > ✅ **Stable**  
-> 📌 Last updated: jan 2 2025  
+> 📌 Last updated: jan 2 2026  
 > 📥 Actively maintained — suggestions welcome via GitHub Issues!
 
 ---
@@ -90,7 +90,7 @@ Make sure to **Subscribe** and **Support** the creator if this tool helps you! �
 ## 🧑‍💻 Author Info
 
 - 👨‍💻 **Suraj**
-- 🔗 [GitHub: @Suraj](https://github.com/Suraj2830009-arch)
+- 🔗 [GitHub: Suraj](https://github.com/Suraj2830009-arch)
 - 📺 [YouTube: White Hat Pro](https://www.youtube.com/@WHP-TEAM)
 - 🌐 Based in India, building open hacking labs for everyone.
 
